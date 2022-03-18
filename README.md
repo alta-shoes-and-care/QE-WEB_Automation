@@ -16,28 +16,28 @@ In the testing process using manual and automation testing with a behavior and u
 
 ## WEB Manual Test Screenshot
 
-- Create New User
+- Title
 
   <img
-  src="https://github.com/alta-shoes-and-care/QE/blob/main/SS/Manual%20Testing%20-%20API/1.%20(%2B)%20Create%20New%20User.png"
+  src="link"
   alt="Alt text"
-  title="Create New User"
+  title="title"
   style="display: inline-block; margin: 0 auto; max-width: 150px">
   
-- Login as Admin
+- Title
 
   <img
-  src="https://github.com/alta-shoes-and-care/QE/blob/main/SS/Manual%20Testing%20-%20API/21.%20(%2B)%20Login%20(admin).png"
+  src="link"
   alt="Alt text"
-  title="Login as Admin"
+  title="title"
   style="display: inline-block; margin: 0 auto; max-width: 150px">
   
-- Login as User
+- Title
 
   <img
-  src="https://github.com/alta-shoes-and-care/QE/blob/main/SS/Manual%20Testing%20-%20API/31.%20(%2B)%20Login%20(user).png"
+  src="link"
   alt="Alt text"
-  title="Login as User"
+  title="title"
   style="display: inline-block; margin: 0 auto; max-width: 150px">
   
   
@@ -73,9 +73,6 @@ In the testing process using manual and automation testing with a behavior and u
 
 ## Contact
 
-- [Adhitya Dwi P](https://github.com/Adhitya87)
-- [zahra A S ](https://github.com/zahrasept)
+- [Adhitya Dwi Prananta](https://github.com/Adhitya87)
+- [Zahra Asri Septia](https://github.com/zahrasept)
 - [Rendy Setiawan](https://github.com/rndsetiawan)
-
-
-# SHOES SERVICE STATION PROJECT - QE
