@@ -16,26 +16,26 @@ In the testing process using manual and automation testing with a behavior and u
 
 ## WEB UI Manual Test Screenshot
 
-- Title
+- Valid URL
 
   <img
-  src="link"
+  src="https://github.com/alta-shoes-and-care/QE-API_Automation/blob/main/SS/Manual%20Testing%20-%20Web%20UI/1-Valid_URL.png"
   alt="Alt text"
   title="title"
   style="display: inline-block; margin: 0 auto; max-width: 150px">
   
-- Title
+- Admin Login
 
   <img
-  src="link"
+  src="https://github.com/alta-shoes-and-care/QE-API_Automation/blob/main/SS/Manual%20Testing%20-%20Web%20UI/25-LoginAdmin_(%2B).png"
   alt="Alt text"
   title="title"
   style="display: inline-block; margin: 0 auto; max-width: 150px">
   
-- Title
+- Expired Login session (Admin)
 
   <img
-  src="link"
+  src="https://github.com/alta-shoes-and-care/QE-API_Automation/blob/main/SS/Manual%20Testing%20-%20Web%20UI/29-Login%20Admin_Session%20Expired.png"
   alt="Alt text"
   title="title"
   style="display: inline-block; margin: 0 auto; max-width: 150px">
@@ -45,7 +45,12 @@ In the testing process using manual and automation testing with a behavior and u
 
 ## WEB UI Automation Test Screenshot
 
-- 
+- Sign Up
+<img
+  src="https://github.com/alta-shoes-and-care/QE-API_Automation/blob/main/SS/Automation%20Testing%20-%20Web%20UI/SignUp%20(%2B).png"
+  alt="Alt text"
+  title="title"
+  style="display: inline-block; margin: 0 auto; max-width: 150px">
 
   
 
