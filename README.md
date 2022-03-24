@@ -62,10 +62,13 @@ In the testing process using manual and automation testing with a behavior and u
 
 **Testing Tools for automation:** 
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Java](https://www.java.com/)
+- [Maven](https://maven.apache.org/)
 - [Google Chrome (WEB Browser)](https://www.google.com/chrome/)
 
 **Framework for automation:**
 - [Serenity BDD](https://serenity-bdd.info/)
+- [Cucumber](https://cucumber.io/)
 
 **Documentation Tools:** 
 - [Google spreadsheet](https://www.google.com/sheets/about/)
@@ -73,7 +76,8 @@ In the testing process using manual and automation testing with a behavior and u
 **Collaboration:**
 - [Trello (Work Management Tool)](https://trello.com/)
 - [GitHub (Version Control System Platform)](https://github.com/)
-- [Telegram (Communication Tool)](https://web.telegram.org/)
+- [Telegram](https://web.telegram.org/)
+- [Google Meet](https://meet.google.com/)
 
 
 ## Contact
