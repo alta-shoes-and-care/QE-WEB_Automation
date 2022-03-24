@@ -25,8 +25,8 @@ public class LoginStepdefs {
         loginStep.clickOkOnAlertSuccessLogin();
     }
 
-    @Then("I on Landing Page")
-    public void seeAllOnLandingPage() {
-        loginStep.verifySwiperWrapper();
+    @Then("I on Landing Page User")
+    public void onLandingPageUser() {
+        loginStep.verifyOnLandingPageUser();
     }
 }

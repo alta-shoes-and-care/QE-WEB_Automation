@@ -6,7 +6,6 @@ import starter.page.Logout;
 import starter.page.SignUpPage;
 
 public class LogoutStep {
-
     LoginPage loginPage;
     SignUpPage signUpPage;
     Logout logout;
@@ -14,8 +13,8 @@ public class LogoutStep {
     @Step
     public void alreadyLogin(){
         loginPage.open();
-        signUpPage.email("admin@gmail.com");
-        signUpPage.password("admin123");
+        signUpPage.email("user@gmail.com");
+        signUpPage.password("user123");
         loginPage.buttonLogin();
         loginPage.okOnAlertSuccessLogin();
         loginPage.verifySwiperWrapper();
@@ -27,5 +26,9 @@ public class LogoutStep {
     @Step
     public void clickYesLogout(){
         logout.yesLogout();
+    }
+    @Step
+    public void clickOkSuccessLogout(){
+        logout.successLogout();
     }
 }

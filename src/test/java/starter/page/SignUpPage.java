@@ -7,6 +7,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
 @DefaultUrl("https://shoes-service-station.netlify.app/")
+//@DefaultUrl("https://shoes-service-station.netlify/")
 public class SignUpPage extends PageObject {
     @FindBy(id="menu-button")
     WebElement dropdownAccount;

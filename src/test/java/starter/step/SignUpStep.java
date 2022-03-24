@@ -3,7 +3,6 @@ package starter.step;
 import net.thucydides.core.annotations.Step;
 import starter.page.LoginPage;
 import starter.page.SignUpPage;
-
 import static org.junit.Assert.assertEquals;
 
 public class SignUpStep {

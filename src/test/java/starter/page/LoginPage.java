@@ -11,15 +11,14 @@ public class LoginPage extends PageObject {
 
     @FindBy(how = How.XPATH, using = "//*[@id=\"__next\"]/main/div/div/div/div/div/h4")
     WebElement textLogin;
-    @FindBy(how = How.XPATH,using = "//*[contains(text(),'Login')]")
-    WebElement wordLogin;
     @FindBy(how = How.XPATH, using= "//*[@id=\"__next\"]/main/div/div/div/div/div/form/div[3]/button")
     WebElement btnLogin;
     @FindBy(how = How.XPATH, using = "//button[text()='OK']")
     WebElement okLogin;
+    @FindBy(how = How.XPATH, using = "//*[@id=\"__next\"]/div[1]/div/h1[3]/a")
+    WebElement myOrderMenu;
     @FindBy(how = How.XPATH, using = "//*[@id=\"__next\"]/main/div/div[1]/div/div[4]")
     WebElement swiperWrapper;
-
     public String verifyLoginPage() {
         return textLogin.getText();
     }
@@ -29,6 +28,9 @@ public class LoginPage extends PageObject {
     }
     public void okOnAlertSuccessLogin(){
         okLogin.click();
+    }
+    public String myOrderMenu(){
+        return myOrderMenu.getText();
     }
     public Boolean verifySwiperWrapper(){
         return swiperWrapper.isDisplayed();
