@@ -73,7 +73,7 @@ In the testing process using manual and automation testing with a behavior and u
 **Collaboration:**
 - [Trello (Work Management Tool)](https://trello.com/)
 - [GitHub (Version Control System Platform)](https://github.com/)
-
+- [Telegram (Communication Tool)](https://web.telegram.org/)
 
 
 ## Contact
